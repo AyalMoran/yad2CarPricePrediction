@@ -1,5 +1,7 @@
 # yad2CarPricePrediction
-A Data science project involving machine-learning
+A Data science project involving machine-learning.
+
+
 This project includes:
 
 Notebooks - 
@@ -23,6 +25,7 @@ geocoded_csv - CSV file after acquiring Long/Lat data.
 Selenium -
 
 selenium module included in folder for the sake of the writer's compatibility.
+(only in the ZIP file)
 
 
 PowerPoint -
