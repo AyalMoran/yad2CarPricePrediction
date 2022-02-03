@@ -13,3 +13,7 @@ ML_data - CSV file for the machine learning step.
 
 Selenium -
 selenium module included in folder for the sake of the writer's compatibility.
+
+PowerPoint -
+yad2 Car Price Prediction Presentation - presentation.
+
